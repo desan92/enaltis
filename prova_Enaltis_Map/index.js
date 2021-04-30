@@ -40,8 +40,16 @@ var imageSeries = chart.series.push(new am4maps.MapImageSeries());
 
 // Create image
 var imageSeriesTemplate = imageSeries.mapImages.template;
+    var marker = imageSeriesTemplate.createChild(am4core.Image);
+    marker.href = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/marker.svg";
+    marker.width = 20;
+    marker.height = 20;
+    marker.nonScaling = true;
+    marker.tooltipText = "{title}";
+    marker.horizontalCenter = "middle";
+    marker.verticalCenter = "bottom";
 
-var circle = imageSeriesTemplate.createChild(am4core.Circle);
+/*var circle = imageSeriesTemplate.createChild(am4core.Circle);
   circle.radius = 10;
   circle.fillOpacity = 0.7;
   circle.verticalCenter = "middle";
@@ -54,7 +62,7 @@ var circle = imageSeriesTemplate.createChild(am4core.Circle);
   label.fill = am4core.color("#fff");
   label.verticalCenter = "middle";
   label.horizontalCenter = "middle";
-  label.nonScaling = true;
+  label.nonScaling = true;*/
 
 // Set property fields
 imageSeriesTemplate.propertyFields.latitude = "latitude";

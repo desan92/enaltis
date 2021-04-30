@@ -34,60 +34,52 @@ am4core.ready(function() {
   var polygonTemplatehs = polygonTemplate.states.create("hover");
   polygonTemplatehs.properties.fill = am4core.color("#367B25");
   
-  chart.events.on("ready", loadCapital);
-  function loadCapital(){
-
-    var dataSource = new am4core.DataSource();
-    dataSource.url = "capital.json";
-    dataSource.load();
-    dataSource.events.on("parseended", function(ev) {
-    var data = ev.target.data;
-    //console.log(data);//data guarda les variables del json capital.
-    recullirDades(data);
-    });
-
-  }
-
   
+  // Create image series
+  var imageSeries = chart.series.push(new am4maps.MapImageSeries());
   
-  function recullirDades(data){
-
-    am4core.array.each(data.query_results, function(capital) {
-
-      // Get store data
-      var capital = {
-        state: capital.state,
-        long: am4core.type.toNumber(capital.longitude),
-        lat: am4core.type.toNumber(capital.latitude),
-        city: capital.title,
-        count: am4core.type.toNumber(capital.count)
-      };
-
-      
-      createSerie(capital)
-
-    });
-  }
-
-  function createSerie(capital)
-  {
-    //console.log(capital);
-    var imageSeries = chart.series.push(new am4maps.MapImageSeries());
-
-    var imageSeriesTemplate = imageSeries.mapImages.template;
-    var marker = imageSeriesTemplate.createChild(am4core.Image);
-    marker.href = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/marker.svg";
-    marker.width = 20;
-    marker.height = 20;
-    marker.nonScaling = true;
-    marker.tooltipText = "{title}";
-    marker.horizontalCenter = "middle";
-    marker.verticalCenter = "bottom";
-    
-    imageSeriesTemplate.propertyFields.latitude = capital.lat; 
-    console.log(imageSeriesTemplate.propertyFields.latitude);
-    imageSeriesTemplate.propertyFields.longitude = capital.long;
-  }
-
+  // Create image
+  var imageSeriesTemplate = imageSeries.mapImages.template;
+      var marker = imageSeriesTemplate.createChild(am4core.Image);
+      marker.href = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/marker.svg";
+      marker.width = 20;
+      marker.height = 20;
+      marker.nonScaling = true;
+      marker.tooltipText = "{title}";
+      marker.horizontalCenter = "middle";
+      marker.verticalCenter = "bottom";
+  
+  /*var circle = imageSeriesTemplate.createChild(am4core.Circle);
+    circle.radius = 10;
+    circle.fillOpacity = 0.7;
+    circle.verticalCenter = "middle";
+    circle.tooltipText = "{title}";
+    circle.horizontalCenter = "middle";
+    circle.nonScaling = true;
+  
+    var label = imageSeriesTemplate.createChild(am4core.Label);
+    label.text = "{count}";
+    label.fill = am4core.color("#fff");
+    label.verticalCenter = "middle";
+    label.horizontalCenter = "middle";
+    label.nonScaling = true;*/
+  
+  // Set property fields
+  imageSeriesTemplate.propertyFields.latitude = "latitude";
+  imageSeriesTemplate.propertyFields.longitude = "longitude";
+  
+  // Add data for the three cities
+  imageSeries.dataSource.url = "capital.json";
+  
+  console.log(imageSeries.dataSource.url);
+  
+  imageSeries.mapImages.template.events.on("hit", function(ev) {
+  
+    alert('EVENT CLICK');
+    console.log(ev.target.dataItem.dataContext.state)
+    var statePolygon = polygonSeries.getPolygonById(ev.target.dataItem.dataContext.state);//variable de l'array.
+        chart.zoomToMapObject(statePolygon);
+  
+  });
   }); // end am4core.ready()
   

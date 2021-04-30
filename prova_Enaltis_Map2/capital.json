@@ -1,5 +1,4 @@
-{
-    "query_results": [{
+[{
       "latitude": 48.856614,
       "longitude": 2.352222,
       "title": "Paris",
@@ -24,4 +23,3 @@
       "state": "IT",
       "count": 4
     }]
-}

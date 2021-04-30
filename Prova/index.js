@@ -11,6 +11,7 @@ chart.projection = new am4maps.projections.Miller();
 var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
 polygonSeries.useGeodata = true;
 polygonSeries.calculateVisualCenter = true;
+polygonSeries.exclude = ["1"];
 
 // Configure series
 var polygonTemplate = polygonSeries.mapPolygons.template;

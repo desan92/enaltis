@@ -1,0 +1,27 @@
+{
+    "query_results": [{
+      "latitude": 48.856614,
+      "longitude": 2.352222,
+      "title": "Paris",
+      "state": "FR",
+      "count": 1
+    }, {
+      "latitude": 40.4378698,
+      "longitude": -3.8196207,
+      "title": "Madrid",
+      "state": "ES",
+      "count": 2
+    }, {
+      "latitude": 51.528308,
+      "longitude": -0.3817841,
+      "title": "Londres",
+      "state": "GB", 
+      "count": 3
+    }, {
+      "latitude": 41.909986,
+      "longitude": 12.3959118,
+      "title": "Roma",
+      "state": "IT",
+      "count": 4
+    }]
+}

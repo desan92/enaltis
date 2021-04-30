@@ -1,0 +1,38 @@
+{
+    "query_results": [{
+      "latitude": 42.2655066,
+      "longitude": 2.9302244,
+      "Provincia": "Girona",
+      "state": "GI",
+      "Municipi": "Figueres",
+      "count": 1
+    },{
+      "latitude": 42.2655066,
+      "longitude": 2.8302244,
+      "Provincia": "Girona",
+      "state": "GI",
+      "Municipi": "Figueres",
+      "count": 5
+    }, {
+      "latitude": 40.4378698,
+      "longitude": -3.8196207,
+      "Provincia": "Madrid",
+      "state": "M",
+      "Municipi": "Madrid",
+      "count": 2
+    }, {
+      "latitude": 41.9802474,
+      "longitude": 2.7836476,
+      "Provincia": "Girona",
+      "state": "GI",
+      "Municipi": "Girona",
+      "count": 3
+    }, {
+      "latitude": 36.5163813,
+      "longitude": -6.3174868,
+      "Provincia": "Cádiz",
+      "state": "CA",
+      "Municipi": "Cádiz",
+      "count": 4
+    }]
+}
