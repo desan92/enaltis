@@ -1,0 +1,80 @@
+.vuecal__flex .vuecal__menu{
+    background-color: #68B5C7;
+    color: aliceblue;
+}
+
+.vuecal__flex .vuecal__title-bar{
+    background-color: #B2E4EB;
+}
+
+.vuecal__cell--disabled{
+    background-color: #dad7db;
+}
+
+.vuecal__flex .vuecal__cell-content .business-hours{
+    background-color: rgba(255, 255, 0, 0.2);
+    border: solid rgba(255, 210, 0, 0.6);
+    border-width: 2px 0;
+    cursor: not-allowed;
+    user-select: none;
+}
+
+
+#btn{
+    background-color: #68B5C7;
+    color: white;
+}
+
+.vuecal__event.Q1{
+    background-color : rgba(253, 156, 66, 0.9); 
+    border: 1px solid rgb(233, 136, 46);
+    color: #fff;
+}
+
+.vuecal__event.Q3{
+    background-color : rgba(255, 102, 102, 0.9);
+    border: 1px solid rgb(255, 102, 102);
+    color: #fff; 
+}
+
+.vuecal__event.Q4
+{
+    background-color : rgba(164, 230, 210, 0.9);
+    border: 1px solid rgb(144, 210, 190);
+    color: #fff; 
+}
+
+.vuecal__event.Q5
+{
+    background-color : rgba(242, 242, 70, 0.9);
+    border: 1px solid rgb(242, 242, 70);
+    color: #fff; 
+}
+
+.vuecal__event.Q6
+{
+    background-color : rgba(70, 242, 233, 0.9);
+    border: 1px solid rgb(70, 242, 233);
+    color: #fff; 
+}
+
+.vuecal__event.Q7
+{
+    background-color : rgba(162, 70, 242, 0.9);
+    border: 1px solid rgb(162, 70, 242);
+    color: #fff; 
+}
+
+.vuecal__event.Q8
+{
+    background-color : rgba(242, 70, 239, 0.9);
+    border: 1px solid rgb(242, 70, 239);
+    color: #fff; 
+}
+
+.vuecal__event.Q11
+{
+    background-color : rgba(70, 242, 167, 0.9);
+    border: 1px solid rgb(70, 242, 167);
+    color: #fff; 
+}

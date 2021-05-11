@@ -1,0 +1,2675 @@
+[{
+        "latitude": 42.400287906941,
+        "longitude": 1.1642825830368,
+        "NOMRS": "Regió Sanitària Alt Pirineu i Aran",
+        "count": 8,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "Aran",
+            "type": "abs",
+            "latitude": 42.725972197797006,
+            "longitude": 0.8271138130339226,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "Alta Ribagor\u00e7a",
+            "type": "abs",
+            "latitude": 42.48373241508129,
+            "longitude": 0.8234787638242906,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "Tremp",
+            "type": "abs",
+            "latitude": 42.146168062926236,
+            "longitude": 0.9000347263035917,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "Pallars Sobir\u00e0",
+            "type": "abs",
+            "latitude": 42.54241550544988,
+            "longitude": 1.167907119491475,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "La Pobla de Segur",
+            "type": "abs",
+            "latitude": 42.340949605137624,
+            "longitude": 0.9662149757911664,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "La Seu d'Urgell",
+            "type": "abs",
+            "latitude": 42.34820035278398,
+            "longitude": 1.469035508740973,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "Cerdanya",
+            "type": "abs",
+            "latitude": 42.38919598915985,
+            "longitude": 1.8359995703420005,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Alt Pirineu i Aran",
+            "NomABS": "Alt Urgell Sud",
+            "type": "abs",
+            "latitude": 42.14516380010241,
+            "longitude": 1.290366797774533,
+            "count": 2
+        }]
+    },
+    {
+        "latitude": 41.499748857005,
+        "longitude": 2.0489602257245,
+        "NOMRS": "Regió Sanitària Barcelona",
+        "count": 220,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - B",
+            "type": "abs",
+            "latitude": 41.56657921925279,
+            "longitude": 2.047267904415879,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 4B",
+            "type": "abs",
+            "latitude": 41.5574090190006,
+            "longitude": 2.0789446367606086,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 1B",
+            "type": "abs",
+            "latitude": 41.537681273835716,
+            "longitude": 2.118441817228236,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Ciutat Badia",
+            "type": "abs",
+            "latitude": 41.50934203012577,
+            "longitude": 2.115781602622223,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 4",
+            "type": "abs",
+            "latitude": 41.56373471638029,
+            "longitude": 2.4454651435646357,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 5",
+            "type": "abs",
+            "latitude": 41.544650646390686,
+            "longitude": 2.426652081017955,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 6",
+            "type": "abs",
+            "latitude": 41.53872320115494,
+            "longitude": 2.4234381854790406,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 7",
+            "type": "abs",
+            "latitude": 41.530595169424096,
+            "longitude": 2.4307303289507636,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 1",
+            "type": "abs",
+            "latitude": 41.53699563694612,
+            "longitude": 2.4421450021410194,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Esplugues de Llobregat - 1",
+            "type": "abs",
+            "latitude": 41.37397765935727,
+            "longitude": 2.097971586128232,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Joan Desp\u00ed - 2",
+            "type": "abs",
+            "latitude": 41.369591660476814,
+            "longitude": 2.0717893259071074,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 01",
+            "type": "abs",
+            "latitude": 41.35976301303666,
+            "longitude": 2.0975525169099853,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 10",
+            "type": "abs",
+            "latitude": 41.36730051791649,
+            "longitude": 2.1008452903407075,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 09",
+            "type": "abs",
+            "latitude": 41.37435311676491,
+            "longitude": 2.104027016533659,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cornell\u00e0 de Llobregat - 4",
+            "type": "abs",
+            "latitude": 41.363713031403414,
+            "longitude": 2.0742531626669294,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cornell\u00e0 de Llobregat - 2",
+            "type": "abs",
+            "latitude": 41.3625675607266,
+            "longitude": 2.0841894082564085,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Boi de Llobregat - 1",
+            "type": "abs",
+            "latitude": 41.34306991706302,
+            "longitude": 2.029303937563829,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Boi de Llobregat - 4",
+            "type": "abs",
+            "latitude": 41.32307425557939,
+            "longitude": 2.0551777203457715,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 12",
+            "type": "abs",
+            "latitude": 41.34591242164594,
+            "longitude": 2.1050137764228425,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03H",
+            "type": "abs",
+            "latitude": 41.36355523615186,
+            "longitude": 2.139052919914414,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 03",
+            "type": "abs",
+            "latitude": 41.373586086416985,
+            "longitude": 2.1165863135521072,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Boi de Llobregat - 3",
+            "type": "abs",
+            "latitude": 41.33189644158159,
+            "longitude": 2.028089457642279,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03A",
+            "type": "abs",
+            "latitude": 41.36915785779182,
+            "longitude": 2.169315429297691,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "El Prat de Llobregat - 2",
+            "type": "abs",
+            "latitude": 41.31047596249767,
+            "longitude": 2.12304429451179,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 01",
+            "type": "abs",
+            "latitude": 41.45694071567185,
+            "longitude": 2.2588984463337605,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Coloma de Gramenet - 2",
+            "type": "abs",
+            "latitude": 41.45741771252517,
+            "longitude": 2.2154678269577275,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 09",
+            "type": "abs",
+            "latitude": 41.456110216397924,
+            "longitude": 2.223994899552502,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Coloma de Gramenet - 6",
+            "type": "abs",
+            "latitude": 41.44978734719012,
+            "longitude": 2.2184467592588075,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 09F",
+            "type": "abs",
+            "latitude": 41.45191320860461,
+            "longitude": 2.192881478402636,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Coloma de Gramenet - 4",
+            "type": "abs",
+            "latitude": 41.449576534887505,
+            "longitude": 2.2054822343794926,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Coloma de Gramenet - 5",
+            "type": "abs",
+            "latitude": 41.441790038740166,
+            "longitude": 2.212324120543407,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 02",
+            "type": "abs",
+            "latitude": 41.44944568822911,
+            "longitude": 2.246256169214164,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 03",
+            "type": "abs",
+            "latitude": 41.44335137242908,
+            "longitude": 2.240717589708739,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 04",
+            "type": "abs",
+            "latitude": 41.43620637294215,
+            "longitude": 2.2353433905857734,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Adri\u00e0 de Bes\u00f3s - 1",
+            "type": "abs",
+            "latitude": 41.42700298006589,
+            "longitude": 2.2223205839973366,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Adri\u00e0 de Bes\u00f3s - 2",
+            "type": "abs",
+            "latitude": 41.419015666695465,
+            "longitude": 2.222457451158766,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10I",
+            "type": "abs",
+            "latitude": 41.42459608054257,
+            "longitude": 2.2054000652436834,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10A",
+            "type": "abs",
+            "latitude": 41.39511983941757,
+            "longitude": 2.1939059662206635,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 01C",
+            "type": "abs",
+            "latitude": 41.38204221674033,
+            "longitude": 2.176643400116285,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 01D",
+            "type": "abs",
+            "latitude": 41.37691566050991,
+            "longitude": 2.1720027164659395,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilanova i la Geltr\u00fa - 1",
+            "type": "abs",
+            "latitude": 41.220913006823714,
+            "longitude": 1.6951887400980574,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "El Prat de Llobregat - 3",
+            "type": "abs",
+            "latitude": 41.30237312818877,
+            "longitude": 2.0860669718501543,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 10",
+            "type": "abs",
+            "latitude": 41.453091272485466,
+            "longitude": 2.234145854599975,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 08",
+            "type": "abs",
+            "latitude": 41.44832972911089,
+            "longitude": 2.2300158266176693,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 07B",
+            "type": "abs",
+            "latitude": 41.444331784347696,
+            "longitude": 2.225208594106876,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cornell\u00e0 de Llobregat - 3",
+            "type": "abs",
+            "latitude": 41.359141712745696,
+            "longitude": 2.076843345323289,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 07",
+            "type": "abs",
+            "latitude": 41.372286196564076,
+            "longitude": 2.110962046962176,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 08",
+            "type": "abs",
+            "latitude": 41.36883311685354,
+            "longitude": 2.1088580834611697,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 06",
+            "type": "abs",
+            "latitude": 41.362847682107635,
+            "longitude": 2.1219529339482492,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 02",
+            "type": "abs",
+            "latitude": 41.3618352114749,
+            "longitude": 2.111055002201468,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 04",
+            "type": "abs",
+            "latitude": 41.37048058205577,
+            "longitude": 2.1228939095611623,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 05",
+            "type": "abs",
+            "latitude": 41.36592686354224,
+            "longitude": 2.1278754653398586,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 3A",
+            "type": "abs",
+            "latitude": 41.56548085685335,
+            "longitude": 2.092837973875675,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 1A",
+            "type": "abs",
+            "latitude": 41.54771986459365,
+            "longitude": 2.1106506350872967,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - A",
+            "type": "abs",
+            "latitude": 41.56408484189137,
+            "longitude": 2.020007955782618,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Coloma de Gramenet - 1",
+            "type": "abs",
+            "latitude": 41.45148773230183,
+            "longitude": 2.210929087834348,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03B",
+            "type": "abs",
+            "latitude": 41.36957924379321,
+            "longitude": 2.152774827772885,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03D",
+            "type": "abs",
+            "latitude": 41.37109849331389,
+            "longitude": 2.138859306700676,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 01B",
+            "type": "abs",
+            "latitude": 41.3865782003823,
+            "longitude": 2.1818784974576455,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02H",
+            "type": "abs",
+            "latitude": 41.393172976890554,
+            "longitude": 2.177289584825626,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 01E",
+            "type": "abs",
+            "latitude": 41.38181506102349,
+            "longitude": 2.1687964657348298,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02A",
+            "type": "abs",
+            "latitude": 41.377378927617585,
+            "longitude": 2.1585059288607633,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02D",
+            "type": "abs",
+            "latitude": 41.38499729665214,
+            "longitude": 2.162870129071451,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02B",
+            "type": "abs",
+            "latitude": 41.380521822942754,
+            "longitude": 2.1509496763294838,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03G",
+            "type": "abs",
+            "latitude": 41.37928645813403,
+            "longitude": 2.138045053743011,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02C",
+            "type": "abs",
+            "latitude": 41.38609671607705,
+            "longitude": 2.1469457325124175,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02E",
+            "type": "abs",
+            "latitude": 41.39112755793896,
+            "longitude": 2.1550813246534886,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 04A",
+            "type": "abs",
+            "latitude": 41.38691911023295,
+            "longitude": 2.1396202151474917,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02G",
+            "type": "abs",
+            "latitude": 41.395018776961685,
+            "longitude": 2.1667392474532843,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 05A",
+            "type": "abs",
+            "latitude": 41.39617693661051,
+            "longitude": 2.145204654440373,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 06B",
+            "type": "abs",
+            "latitude": 41.40043234298889,
+            "longitude": 2.1579166794120823,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 06A",
+            "type": "abs",
+            "latitude": 41.40514242531893,
+            "longitude": 2.1653672759330465,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02J",
+            "type": "abs",
+            "latitude": 41.39999905233405,
+            "longitude": 2.1756318001170554,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02I",
+            "type": "abs",
+            "latitude": 41.40491650945803,
+            "longitude": 2.1801940063973655,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 02K",
+            "type": "abs",
+            "latitude": 41.40775685691728,
+            "longitude": 2.1743266532614745,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10E",
+            "type": "abs",
+            "latitude": 41.408823656815755,
+            "longitude": 2.1845854196760346,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10F",
+            "type": "abs",
+            "latitude": 41.41275425686207,
+            "longitude": 2.181126998185792,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07B",
+            "type": "abs",
+            "latitude": 41.41096404586578,
+            "longitude": 2.168433099795688,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07G",
+            "type": "abs",
+            "latitude": 41.41866493385015,
+            "longitude": 2.174676129837329,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03I",
+            "type": "abs",
+            "latitude": 41.37478079654782,
+            "longitude": 2.1276431689187927,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 04B",
+            "type": "abs",
+            "latitude": 41.38677274161095,
+            "longitude": 2.130907002462902,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 05C",
+            "type": "abs",
+            "latitude": 41.39499903308257,
+            "longitude": 2.127961506358448,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 05B",
+            "type": "abs",
+            "latitude": 41.40176205644046,
+            "longitude": 2.1419310802024425,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 06C",
+            "type": "abs",
+            "latitude": 41.40684311274267,
+            "longitude": 2.1527534263760666,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 05E",
+            "type": "abs",
+            "latitude": 41.4108241325812,
+            "longitude": 2.1338735756349583,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 06D",
+            "type": "abs",
+            "latitude": 41.4166049669876,
+            "longitude": 2.1436697653629557,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 06E",
+            "type": "abs",
+            "latitude": 41.41171849830186,
+            "longitude": 2.157182978984642,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07C",
+            "type": "abs",
+            "latitude": 41.42068578521909,
+            "longitude": 2.1555563657752974,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07A",
+            "type": "abs",
+            "latitude": 41.417314982769824,
+            "longitude": 2.1649974823483062,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07D",
+            "type": "abs",
+            "latitude": 41.42594935732239,
+            "longitude": 2.163140191620057,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08F",
+            "type": "abs",
+            "latitude": 41.43933903902303,
+            "longitude": 2.167389547979337,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07F",
+            "type": "abs",
+            "latitude": 41.4324080778301,
+            "longitude": 2.159564962454935,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08J",
+            "type": "abs",
+            "latitude": 41.42860381249328,
+            "longitude": 2.1774291571434903,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 09C",
+            "type": "abs",
+            "latitude": 41.421403325172435,
+            "longitude": 2.182124822663379,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 09H",
+            "type": "abs",
+            "latitude": 41.43274925336214,
+            "longitude": 2.1895516406256954,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08I",
+            "type": "abs",
+            "latitude": 41.44838191817269,
+            "longitude": 2.1850660818809686,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 09A",
+            "type": "abs",
+            "latitude": 41.42235259146329,
+            "longitude": 2.1901726354389197,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10H",
+            "type": "abs",
+            "latitude": 41.421173692269406,
+            "longitude": 2.19795708123521,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10G",
+            "type": "abs",
+            "latitude": 41.41059204021408,
+            "longitude": 2.1905828142008086,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10C",
+            "type": "abs",
+            "latitude": 41.40956882988906,
+            "longitude": 2.2033419633632505,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10J",
+            "type": "abs",
+            "latitude": 41.41661339997311,
+            "longitude": 2.2009923323573424,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Cugat del Vall\u00e9s - 1",
+            "type": "abs",
+            "latitude": 41.474982871382934,
+            "longitude": 2.0905318397830963,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 06",
+            "type": "abs",
+            "latitude": 41.43768344010881,
+            "longitude": 2.2194301599680375,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 07A",
+            "type": "abs",
+            "latitude": 41.44238820731076,
+            "longitude": 2.2192750642066494,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 05",
+            "type": "abs",
+            "latitude": 41.434159020067106,
+            "longitude": 2.224840164005711,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03E",
+            "type": "abs",
+            "latitude": 41.37459279060731,
+            "longitude": 2.134235906894565,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilafranca del Pened\u00e9s - 2",
+            "type": "abs",
+            "latitude": 41.349774428823075,
+            "longitude": 1.7086571007341247,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilafranca del Pened\u00e9s - 1",
+            "type": "abs",
+            "latitude": 41.340171663935266,
+            "longitude": 1.6850474520830563,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilanova i la Geltr\u00fa - 3",
+            "type": "abs",
+            "latitude": 41.215448345930334,
+            "longitude": 1.7186345899215785,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 01A",
+            "type": "abs",
+            "latitude": 41.38261052962134,
+            "longitude": 2.189014603889999,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10B",
+            "type": "abs",
+            "latitude": 41.4032508026302,
+            "longitude": 2.211382111534961,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 10D",
+            "type": "abs",
+            "latitude": 41.41427634150492,
+            "longitude": 2.216903720450861,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 7",
+            "type": "abs",
+            "latitude": 41.550446071346755,
+            "longitude": 2.1317813904140617,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cerdanyola - Ripollet",
+            "type": "abs",
+            "latitude": 41.49959486787164,
+            "longitude": 2.1392459770896877,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Ripollet - 1",
+            "type": "abs",
+            "latitude": 41.5030111578553,
+            "longitude": 2.152937495468766,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barber\u00e0 del Vall\u00e9s",
+            "type": "abs",
+            "latitude": 41.51859956822237,
+            "longitude": 2.136269569757674,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 6",
+            "type": "abs",
+            "latitude": 41.51985959843038,
+            "longitude": 2.104767640650618,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 5",
+            "type": "abs",
+            "latitude": 41.542562481634896,
+            "longitude": 2.0888248078074643,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 4A",
+            "type": "abs",
+            "latitude": 41.55960640137617,
+            "longitude": 2.092016960876803,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilassar de Dalt",
+            "type": "abs",
+            "latitude": 41.525761721691325,
+            "longitude": 2.357780076100184,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Ocata - Tei\u00e0",
+            "type": "abs",
+            "latitude": 41.49636927616053,
+            "longitude": 2.3248692751753794,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "El Masnou - Alella",
+            "type": "abs",
+            "latitude": 41.49498644571905,
+            "longitude": 2.2954348203896853,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Montgat",
+            "type": "abs",
+            "latitude": 41.48164401134318,
+            "longitude": 2.27060204269793,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Martorelles",
+            "type": "abs",
+            "latitude": 41.512715734042466,
+            "longitude": 2.2394381223638575,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 12",
+            "type": "abs",
+            "latitude": 41.47292002517839,
+            "longitude": 2.2468168670728783,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "La Llagosta",
+            "type": "abs",
+            "latitude": 41.51584311373954,
+            "longitude": 2.2027174146775117,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Perp\u00e9tua de Mogoda",
+            "type": "abs",
+            "latitude": 41.53425143498461,
+            "longitude": 2.17520980016917,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Poliny\u00e0 - Sentmenat",
+            "type": "abs",
+            "latitude": 41.60160595022914,
+            "longitude": 2.1354466696947,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cubelles - Cunit",
+            "type": "abs",
+            "latitude": 41.21963098645477,
+            "longitude": 1.6461177265551106,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilanova i la Geltr\u00fa - 2",
+            "type": "abs",
+            "latitude": 41.24545164987954,
+            "longitude": 1.7034487151998696,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Roquetes - Canyelles",
+            "type": "abs",
+            "latitude": 41.26187090210885,
+            "longitude": 1.7369905225738482,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sitges",
+            "type": "abs",
+            "latitude": 41.25395024205097,
+            "longitude": 1.8557994127159119,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Castelldefels - 2",
+            "type": "abs",
+            "latitude": 41.27347658372377,
+            "longitude": 1.9545001039258816,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Viladecans - 1",
+            "type": "abs",
+            "latitude": 41.29583902051967,
+            "longitude": 2.0392195606702,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Viladecans - 2",
+            "type": "abs",
+            "latitude": 41.313322478918536,
+            "longitude": 2.0029666041111813,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Gav\u00e0 - 1",
+            "type": "abs",
+            "latitude": 41.30172668216999,
+            "longitude": 1.9575560449603469,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Viladecans - 3",
+            "type": "abs",
+            "latitude": 41.33097493210523,
+            "longitude": 1.9919940101993456,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Ribes - Olivella",
+            "type": "abs",
+            "latitude": 41.28313843332225,
+            "longitude": 1.8004398293202901,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Begues",
+            "type": "abs",
+            "latitude": 41.31953339911216,
+            "longitude": 1.9012269141246294,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Vicen\u00e7 dels Horts - 2",
+            "type": "abs",
+            "latitude": 41.38496935474903,
+            "longitude": 2.0007715072393437,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Vicen\u00e7 dels Horts - 1",
+            "type": "abs",
+            "latitude": 41.36707441730815,
+            "longitude": 1.9813400885714771,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Pallej\u00e0",
+            "type": "abs",
+            "latitude": 41.421946635208236,
+            "longitude": 1.9883955440325434,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Molins de Rei",
+            "type": "abs",
+            "latitude": 41.42622794545077,
+            "longitude": 2.0247465896392534,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Andreu de la Barca",
+            "type": "abs",
+            "latitude": 41.45362710022027,
+            "longitude": 1.9597523562879822,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Castellbisbal",
+            "type": "abs",
+            "latitude": 41.46988877404734,
+            "longitude": 1.981188244238705,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Martorell",
+            "type": "abs",
+            "latitude": 41.48842966276704,
+            "longitude": 1.9374911325844661,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Abrera",
+            "type": "abs",
+            "latitude": 41.51755620377248,
+            "longitude": 1.9066200775950999,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Olesa de Montserrat",
+            "type": "abs",
+            "latitude": 41.55444086954565,
+            "longitude": 1.902284759701807,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Quirze del Vall\u00e9s",
+            "type": "abs",
+            "latitude": 41.52411485945576,
+            "longitude": 2.069931119448565,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08C",
+            "type": "abs",
+            "latitude": 41.43176427756956,
+            "longitude": 2.1689159078441484,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08K",
+            "type": "abs",
+            "latitude": 41.43513890339971,
+            "longitude": 2.1790630130198276,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08L",
+            "type": "abs",
+            "latitude": 41.44204551162949,
+            "longitude": 2.179004068087464,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Palau-solit\u00e0 i Plegamans",
+            "type": "abs",
+            "latitude": 41.58029685922596,
+            "longitude": 2.17771912422603,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Parets del Vall\u00e9s",
+            "type": "abs",
+            "latitude": 41.56531731446405,
+            "longitude": 2.2331358704844098,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Mollet del Vall\u00e9s - 2",
+            "type": "abs",
+            "latitude": 41.555624870881566,
+            "longitude": 2.2033255456808707,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Mollet del Vall\u00e9s - 1",
+            "type": "abs",
+            "latitude": 41.53957920878726,
+            "longitude": 2.216516534841839,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Argentona",
+            "type": "abs",
+            "latitude": 41.584890161686765,
+            "longitude": 2.415550304732068,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Montorn\u00e9s - Montmel\u00f3",
+            "type": "abs",
+            "latitude": 41.543724357194996,
+            "longitude": 2.2884784778248233,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "La Roca del Vall\u00e9s",
+            "type": "abs",
+            "latitude": 41.596333602301556,
+            "longitude": 2.3337793470610877,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Granollers - 4 Sud",
+            "type": "abs",
+            "latitude": 41.585702880611684,
+            "longitude": 2.2828574590059842,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Granollers - 3 Centre Est",
+            "type": "abs",
+            "latitude": 41.60666920866754,
+            "longitude": 2.2902665870435075,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Granollers - 1 Oest",
+            "type": "abs",
+            "latitude": 41.60674582857398,
+            "longitude": 2.2695379824356374,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Granollers - 2 Nord",
+            "type": "abs",
+            "latitude": 41.647708206711414,
+            "longitude": 2.309889990376121,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cardedeu",
+            "type": "abs",
+            "latitude": 41.68512974140274,
+            "longitude": 2.3440856780722106,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vall del Tenes",
+            "type": "abs",
+            "latitude": 41.64120272573832,
+            "longitude": 2.2195647241148433,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Caldes de Montbui",
+            "type": "abs",
+            "latitude": 41.6668794530517,
+            "longitude": 2.1492151472799197,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "La Garriga",
+            "type": "abs",
+            "latitude": 41.727430744175145,
+            "longitude": 2.2842134563668077,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Esparreguera",
+            "type": "abs",
+            "latitude": 41.585512946290194,
+            "longitude": 1.8049583712523192,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Martorell rural",
+            "type": "abs",
+            "latitude": 41.46371950248954,
+            "longitude": 1.8580702930825557,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Sadurn\u00ed d'Anoia",
+            "type": "abs",
+            "latitude": 41.45886701238871,
+            "longitude": 1.6987232385087212,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Just Desvern",
+            "type": "abs",
+            "latitude": 41.38921881362853,
+            "longitude": 2.0781342443971793,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 04C",
+            "type": "abs",
+            "latitude": 41.38686020484907,
+            "longitude": 2.1119857321221702,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Esplugues de Llobregat - 2",
+            "type": "abs",
+            "latitude": 41.37830704263379,
+            "longitude": 2.0897338389745066,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Feliu de Llobregat - 1",
+            "type": "abs",
+            "latitude": 41.384580959880196,
+            "longitude": 2.0360460332984873,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Boi de Llobregat - 2",
+            "type": "abs",
+            "latitude": 41.361911005804934,
+            "longitude": 2.0191925504079196,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - F",
+            "type": "abs",
+            "latitude": 41.619334627304816,
+            "longitude": 2.018369981403843,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 3B",
+            "type": "abs",
+            "latitude": 41.57585345866041,
+            "longitude": 2.0731594760127545,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Castellar del Vall\u00e9s",
+            "type": "abs",
+            "latitude": 41.65074408370572,
+            "longitude": 2.065172868389806,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sabadell - 2",
+            "type": "abs",
+            "latitude": 41.57167001453327,
+            "longitude": 2.107980733569688,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Castelldefels - 1",
+            "type": "abs",
+            "latitude": 41.2895680456007,
+            "longitude": 1.9735336726341852,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Gav\u00e0 - 2",
+            "type": "abs",
+            "latitude": 41.28438140988276,
+            "longitude": 2.0096132489073857,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Ripollet - 2",
+            "type": "abs",
+            "latitude": 41.49601394784409,
+            "longitude": 2.158483260654568,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Montcada i Reixac - 2",
+            "type": "abs",
+            "latitude": 41.49490196338271,
+            "longitude": 2.1751333632820318,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Santa Coloma de Gramenet - 3",
+            "type": "abs",
+            "latitude": 41.46261177724045,
+            "longitude": 2.202439048513827,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 07E",
+            "type": "abs",
+            "latitude": 41.43395413871082,
+            "longitude": 2.1415809913682486,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cerdanyola del Vall\u00e9s - 1",
+            "type": "abs",
+            "latitude": 41.495479826043926,
+            "longitude": 2.104698771105638,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cerdanyola del Vall\u00e9s - 2",
+            "type": "abs",
+            "latitude": 41.46928249196776,
+            "longitude": 2.1353418173471854,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Montcada i Reixac - 1",
+            "type": "abs",
+            "latitude": 41.478163272295824,
+            "longitude": 2.192802746292111,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Badalona - 11",
+            "type": "abs",
+            "latitude": 41.47230353892483,
+            "longitude": 2.2278058712489153,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Feliu de Llobregat - 2",
+            "type": "abs",
+            "latitude": 41.40090601745932,
+            "longitude": 2.057560935019366,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Cugat del Vall\u00e9s - 2",
+            "type": "abs",
+            "latitude": 41.449313914001856,
+            "longitude": 2.075632190185109,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 05D",
+            "type": "abs",
+            "latitude": 41.4145130928416,
+            "longitude": 2.0988935770229347,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "L'Hospitalet de Llobregat - 11",
+            "type": "abs",
+            "latitude": 41.35384184208783,
+            "longitude": 2.121941449305294,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 03C",
+            "type": "abs",
+            "latitude": 41.343320892413274,
+            "longitude": 2.138932286502803,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "El Prat de Llobregat - 1",
+            "type": "abs",
+            "latitude": 41.33405610664248,
+            "longitude": 2.087559758715992,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Cornell\u00e0 de Llobregat - 1",
+            "type": "abs",
+            "latitude": 41.351084131384475,
+            "longitude": 2.0759853444629357,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Joan Desp\u00ed - 1",
+            "type": "abs",
+            "latitude": 41.36573153041663,
+            "longitude": 2.052740331267229,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08G",
+            "type": "abs",
+            "latitude": 41.44742877436412,
+            "longitude": 2.175249018821455,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 08H",
+            "type": "abs",
+            "latitude": 41.45460139566738,
+            "longitude": 2.1747826105723407,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - C",
+            "type": "abs",
+            "latitude": 41.53962673814138,
+            "longitude": 2.0453830253863368,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Rub\u00ed - 3",
+            "type": "abs",
+            "latitude": 41.503321850480724,
+            "longitude": 2.0077123354353654,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - D",
+            "type": "abs",
+            "latitude": 41.548030378208225,
+            "longitude": 1.9587455865116952,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - G",
+            "type": "abs",
+            "latitude": 41.54555735797997,
+            "longitude": 2.0249720915468847,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Terrassa - E",
+            "type": "abs",
+            "latitude": 41.59094618165806,
+            "longitude": 1.9858984123259367,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 09E",
+            "type": "abs",
+            "latitude": 41.43691943190521,
+            "longitude": 2.2017169703201347,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Barcelona - 09I",
+            "type": "abs",
+            "latitude": 41.442292624917954,
+            "longitude": 2.1908457124416136,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Celoni",
+            "type": "abs",
+            "latitude": 41.717383183113995,
+            "longitude": 2.478376932299012,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Alt Mogent",
+            "type": "abs",
+            "latitude": 41.67178299629338,
+            "longitude": 2.4019364408514257,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Arenys de Mar",
+            "type": "abs",
+            "latitude": 41.604390934282854,
+            "longitude": 2.536179310550131,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Andreu de Llavaneres",
+            "type": "abs",
+            "latitude": 41.5785078788092,
+            "longitude": 2.4963788542408585,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 3",
+            "type": "abs",
+            "latitude": 41.55035133217631,
+            "longitude": 2.464799694359123,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Matar\u00f3 - 2",
+            "type": "abs",
+            "latitude": 41.53985033222256,
+            "longitude": 2.449220197625889,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Rub\u00ed - 2",
+            "type": "abs",
+            "latitude": 41.48299350127161,
+            "longitude": 2.035251401184492,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Sant Cugat del Vall\u00e9s - 3",
+            "type": "abs",
+            "latitude": 41.48540904103544,
+            "longitude": 2.0631372305550584,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Rub\u00ed - 1",
+            "type": "abs",
+            "latitude": 41.501575079909585,
+            "longitude": 2.040293941584247,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vilassar de Mar",
+            "type": "abs",
+            "latitude": 41.519006584070574,
+            "longitude": 2.395113516487122,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Premi\u00e0 de Mar",
+            "type": "abs",
+            "latitude": 41.50287513709749,
+            "longitude": 2.347219298095426,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Pened\u00e9s rural",
+            "type": "abs",
+            "latitude": 41.368967748281904,
+            "longitude": 1.681519968762779,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Vallirana",
+            "type": "abs",
+            "latitude": 41.38476830098333,
+            "longitude": 1.931894744571749,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Barcelona",
+            "NomABS": "Corbera de Llobregat",
+            "type": "abs",
+            "latitude": 41.42359124966269,
+            "longitude": 1.9370563752539867,
+            "count": 2
+        }]
+    },
+    {
+        "latitude": 41.249182060558,
+        "longitude": 1.1398288129968,
+        "NOMRS": "Regió Sanitària Camp de Tarragona",
+        "count": 135,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 1",
+            "type": "abs",
+            "latitude": 41.125068020662525,
+            "longitude": 1.1868588468253025,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 8",
+            "type": "abs",
+            "latitude": 41.118544432610186,
+            "longitude": 1.2535718249355372,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Reus - 1",
+            "type": "abs",
+            "latitude": 41.155407665929225,
+            "longitude": 1.1083487846508113,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 6",
+            "type": "abs",
+            "latitude": 41.12822753299976,
+            "longitude": 1.2416494510376466,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 5",
+            "type": "abs",
+            "latitude": 41.13808342768348,
+            "longitude": 1.2555204888330227,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 3",
+            "type": "abs",
+            "latitude": 41.11380345470635,
+            "longitude": 1.244577385876142,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Mont-roig del Camp",
+            "type": "abs",
+            "latitude": 41.06700781076025,
+            "longitude": 0.922411776795126,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Falset",
+            "type": "abs",
+            "latitude": 41.17157524316274,
+            "longitude": 0.7824015983136534,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Salou",
+            "type": "abs",
+            "latitude": 41.07932990807591,
+            "longitude": 1.1431021066355216,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Cambrils",
+            "type": "abs",
+            "latitude": 41.08213304846928,
+            "longitude": 1.0424056321531063,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Reus - 5",
+            "type": "abs",
+            "latitude": 41.12716702037528,
+            "longitude": 1.1218751099781892,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 2",
+            "type": "abs",
+            "latitude": 41.11782789780022,
+            "longitude": 1.2089522447252479,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Torredembarra",
+            "type": "abs",
+            "latitude": 41.193519468410265,
+            "longitude": 1.406277121311379,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 4",
+            "type": "abs",
+            "latitude": 41.15693347152854,
+            "longitude": 1.31042798845772,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "El Morell",
+            "type": "abs",
+            "latitude": 41.202139935577904,
+            "longitude": 1.2355569350062758,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Constant\u00ed",
+            "type": "abs",
+            "latitude": 41.16070570846248,
+            "longitude": 1.1904161362116061,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Tarragona - 7",
+            "type": "abs",
+            "latitude": 41.16167695396672,
+            "longitude": 1.25722931445538,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Riudoms",
+            "type": "abs",
+            "latitude": 41.13301665348184,
+            "longitude": 0.9990951184794268,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Reus - 2",
+            "type": "abs",
+            "latitude": 41.14873704704805,
+            "longitude": 1.089042733750121,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Reus - 4",
+            "type": "abs",
+            "latitude": 41.14485392133783,
+            "longitude": 1.1495176692984188,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Reus - 3",
+            "type": "abs",
+            "latitude": 41.175585708326885,
+            "longitude": 1.0919159758525454,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "La Selva del Camp",
+            "type": "abs",
+            "latitude": 41.21972006641628,
+            "longitude": 1.121001303974867,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Les Borges del Camp",
+            "type": "abs",
+            "latitude": 41.21094576773053,
+            "longitude": 0.9966811333821238,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Cornudella de Montsant",
+            "type": "abs",
+            "latitude": 41.28353192702737,
+            "longitude": 0.905361972005348,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "El Vendrell",
+            "type": "abs",
+            "latitude": 41.24073185667602,
+            "longitude": 1.5092542201239754,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Calafell",
+            "type": "abs",
+            "latitude": 41.2083545384943,
+            "longitude": 1.5893829397445838,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Baix Pened\u00e9s - Interior",
+            "type": "abs",
+            "latitude": 41.30653999876071,
+            "longitude": 1.5626962848809751,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Alt Camp Oest",
+            "type": "abs",
+            "latitude": 41.28522725254964,
+            "longitude": 1.1432144796532475,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Valls urb\u00e0",
+            "type": "abs",
+            "latitude": 41.285873138482785,
+            "longitude": 1.2426726409262165,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Montblanc",
+            "type": "abs",
+            "latitude": 41.413938482579766,
+            "longitude": 1.140249909763873,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Vila-seca",
+            "type": "abs",
+            "latitude": 41.09910823191639,
+            "longitude": 1.1480568777245888,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Vandell\u00f3s i l'Hospitalet de l'Infant",
+            "type": "abs",
+            "latitude": 40.99550591566515,
+            "longitude": 0.8438437182074364,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Camp de Tarragona",
+            "NomABS": "Alt Camp Est",
+            "type": "abs",
+            "latitude": 41.34109193128614,
+            "longitude": 1.3709274430887475,
+            "count": 2
+        }]
+    },
+    {
+        "latitude": 41.895729310478,
+        "longitude": 1.8194598286538,
+        "NOMRS": "Regió Sanitària Catalunya Central",
+        "count": 95,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Navarcles - Sant Fruit\u00f3s de Bages",
+            "type": "abs",
+            "latitude": 41.74645095703619,
+            "longitude": 1.9053132937262327,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Manresa - 3",
+            "type": "abs",
+            "latitude": 41.73707235501533,
+            "longitude": 1.8438523470535266,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Calaf",
+            "type": "abs",
+            "latitude": 41.798470343752875,
+            "longitude": 1.467605220378399,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Manresa - 2",
+            "type": "abs",
+            "latitude": 41.74354329806165,
+            "longitude": 1.824845973892726,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Sant Joan de Vilatorrada",
+            "type": "abs",
+            "latitude": 41.741766337988906,
+            "longitude": 1.695101326519438,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "S\u00faria",
+            "type": "abs",
+            "latitude": 41.82851502902109,
+            "longitude": 1.6736077286982898,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Cardona",
+            "type": "abs",
+            "latitude": 41.9421954364313,
+            "longitude": 1.6853941789297966,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Solson\u00e9s",
+            "type": "abs",
+            "latitude": 42.04050314589239,
+            "longitude": 1.518307443935766,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Nav\u00e0s - Balsareny",
+            "type": "abs",
+            "latitude": 41.912179145344126,
+            "longitude": 1.8332265080485322,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Sallent",
+            "type": "abs",
+            "latitude": 41.83163185311745,
+            "longitude": 1.9060587259367692,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Santa Margarida de Montbui",
+            "type": "abs",
+            "latitude": 41.56134925752472,
+            "longitude": 1.5775403918708684,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Igualada - 1",
+            "type": "abs",
+            "latitude": 41.57766971248993,
+            "longitude": 1.62613996123513,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Igualada - 2",
+            "type": "abs",
+            "latitude": 41.58742807645163,
+            "longitude": 1.612408007963004,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Vilanova del Cam\u00ed",
+            "type": "abs",
+            "latitude": 41.5594237629789,
+            "longitude": 1.6302564926318508,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Anoia rural",
+            "type": "abs",
+            "latitude": 41.58464077917448,
+            "longitude": 1.5489096047569793,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Art\u00e9s",
+            "type": "abs",
+            "latitude": 41.84260583168794,
+            "longitude": 2.002274751263472,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Llu\u00e7an\u00e9s",
+            "type": "abs",
+            "latitude": 41.9968422641277,
+            "longitude": 2.0629440898381084,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Sant Quirze de Besora",
+            "type": "abs",
+            "latitude": 42.101180758051996,
+            "longitude": 2.205142786057033,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Sant Hip\u00f2lit de Voltreg\u00e0",
+            "type": "abs",
+            "latitude": 42.03874386491047,
+            "longitude": 2.220432765836323,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Manlleu",
+            "type": "abs",
+            "latitude": 42.006495321427444,
+            "longitude": 2.2805701027008696,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "La Vall del Ges",
+            "type": "abs",
+            "latitude": 42.07568079770639,
+            "longitude": 2.313075104350823,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Roda de Ter",
+            "type": "abs",
+            "latitude": 42.01571131544901,
+            "longitude": 2.388920510387494,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Vic - 1",
+            "type": "abs",
+            "latitude": 41.95758866963936,
+            "longitude": 2.2323972247537127,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Vic - 2",
+            "type": "abs",
+            "latitude": 41.8968235654373,
+            "longitude": 2.185445176115585,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Moi\u00e0",
+            "type": "abs",
+            "latitude": 41.77914215816509,
+            "longitude": 2.11365129849544,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Centelles",
+            "type": "abs",
+            "latitude": 41.781656998291226,
+            "longitude": 2.215108572195086,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Tona",
+            "type": "abs",
+            "latitude": 41.83160904806474,
+            "longitude": 2.26555056507628,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Santa Eug\u00e8nia de Berga",
+            "type": "abs",
+            "latitude": 41.898337678376976,
+            "longitude": 2.368956935789744,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Sant Vicen\u00e7 de Castellet",
+            "type": "abs",
+            "latitude": 41.6772771262847,
+            "longitude": 1.8630374310866693,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Capellades",
+            "type": "abs",
+            "latitude": 41.521089670463034,
+            "longitude": 1.6828145101996739,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Piera",
+            "type": "abs",
+            "latitude": 41.52460778962237,
+            "longitude": 1.768019991551829,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Santa Coloma de Queralt",
+            "type": "abs",
+            "latitude": 41.51265761402681,
+            "longitude": 1.363916331074982,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Baix Bergued\u00e0",
+            "type": "abs",
+            "latitude": 42.0300344070326,
+            "longitude": 1.8928090111662637,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Berga",
+            "type": "abs",
+            "latitude": 42.12358016972145,
+            "longitude": 1.8542125448003453,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Alt Bergued\u00e0",
+            "type": "abs",
+            "latitude": 42.24389819598639,
+            "longitude": 1.8393629882601799,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Manresa - 1",
+            "type": "abs",
+            "latitude": 41.681556133023776,
+            "longitude": 1.7301225238131508,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Manresa - 4",
+            "type": "abs",
+            "latitude": 41.71193940411879,
+            "longitude": 1.8545838065898843,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Catalunya Central",
+            "NomABS": "Montserrat",
+            "type": "abs",
+            "latitude": 41.621935036633,
+            "longitude": 1.8903653006534695,
+            "count": 2
+        }]
+    },
+    {
+        "latitude": 42.101718888342,
+        "longitude": 2.7136060230019,
+        "NOMRS": "Regió Sanitària Girona",
+        "count": 38,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Ribes de Freser - Campdev\u00e0nol",
+            "type": "abs",
+            "latitude": 42.31482680187512,
+            "longitude": 2.13202885574474,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Camprodon",
+            "type": "abs",
+            "latitude": 42.34246086712803,
+            "longitude": 2.3608653417880086,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Besal\u00fa",
+            "type": "abs",
+            "latitude": 42.241425576263026,
+            "longitude": 2.628929346799972,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Vilafant",
+            "type": "abs",
+            "latitude": 42.27972412859751,
+            "longitude": 2.8005567524296824,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "La Jonquera",
+            "type": "abs",
+            "latitude": 42.391629691134995,
+            "longitude": 2.8436991034009855,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Figueres",
+            "type": "abs",
+            "latitude": 42.2533840236656,
+            "longitude": 3.0063931932764416,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Peralada",
+            "type": "abs",
+            "latitude": 42.36309793652056,
+            "longitude": 3.0243622761193523,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Llan\u00e7\u00e0",
+            "type": "abs",
+            "latitude": 42.36118711291657,
+            "longitude": 3.163056963329474,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Sarri\u00e0 de Ter",
+            "type": "abs",
+            "latitude": 42.06105140363674,
+            "longitude": 2.894855778583522,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "B\u00e1scara",
+            "type": "abs",
+            "latitude": 42.14430718357641,
+            "longitude": 2.928469348280618,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Ripoll - Sant Joan de les Abadesses",
+            "type": "abs",
+            "latitude": 42.198868798036976,
+            "longitude": 2.2039454743416518,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Sant Joan les Fonts",
+            "type": "abs",
+            "latitude": 42.2279503748388,
+            "longitude": 2.458559369417816,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Olot",
+            "type": "abs",
+            "latitude": 42.15808292219895,
+            "longitude": 2.5361706158593744,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Banyoles",
+            "type": "abs",
+            "latitude": 42.12331537473626,
+            "longitude": 2.748298097663991,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Palam\u00f3s",
+            "type": "abs",
+            "latitude": 41.86561890142693,
+            "longitude": 3.093000008260971,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Lloret de Mar",
+            "type": "abs",
+            "latitude": 41.731200240934584,
+            "longitude": 2.8697444567801718,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Blanes",
+            "type": "abs",
+            "latitude": 41.68873190579684,
+            "longitude": 2.7823788601273427,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Celr\u00e0",
+            "type": "abs",
+            "latitude": 42.01735022632963,
+            "longitude": 2.9310811056198607,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Girona - 1",
+            "type": "abs",
+            "latitude": 41.98647006964112,
+            "longitude": 2.8467728304710462,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "La Vall d'en Bas",
+            "type": "abs",
+            "latitude": 42.11806872262652,
+            "longitude": 2.4570868804367905,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Girona - 4",
+            "type": "abs",
+            "latitude": 42.04255109309802,
+            "longitude": 2.686018775511401,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Girona - 3",
+            "type": "abs",
+            "latitude": 41.95974892158919,
+            "longitude": 2.8264811787670854,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Girona - 2",
+            "type": "abs",
+            "latitude": 41.9723029830521,
+            "longitude": 2.807432453533883,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Sils - Vidreres - Ma\u00e7anet de la Selva",
+            "type": "abs",
+            "latitude": 41.79346263821402,
+            "longitude": 2.736172586931029,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Santa Coloma de Farners",
+            "type": "abs",
+            "latitude": 41.87613702587632,
+            "longitude": 2.664240537158936,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Arb\u00facies - Sant Hilari",
+            "type": "abs",
+            "latitude": 41.86272062077647,
+            "longitude": 2.4952992684275617,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Breda - Hostalric",
+            "type": "abs",
+            "latitude": 41.773468937764335,
+            "longitude": 2.585640935186159,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Cass\u00e0 de la Selva",
+            "type": "abs",
+            "latitude": 41.865176409037055,
+            "longitude": 2.867013601640586,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "La Bisbal d'Empord\u00e0",
+            "type": "abs",
+            "latitude": 41.95202954277032,
+            "longitude": 3.0269112529504727,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Angl\u00e8s",
+            "type": "abs",
+            "latitude": 41.965933446058834,
+            "longitude": 2.5905168759501023,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Salt",
+            "type": "abs",
+            "latitude": 41.94692674320528,
+            "longitude": 2.7537075464503777,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Roses",
+            "type": "abs",
+            "latitude": 42.27331190228058,
+            "longitude": 3.171227793109639,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Torroella de Montgr\u00ed",
+            "type": "abs",
+            "latitude": 42.05351635756788,
+            "longitude": 3.11518367536875,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Palafrugell",
+            "type": "abs",
+            "latitude": 41.94188403090644,
+            "longitude": 3.169555595918588,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Pineda de Mar",
+            "type": "abs",
+            "latitude": 41.64261942592796,
+            "longitude": 2.683811939641402,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Malgrat de Mar",
+            "type": "abs",
+            "latitude": 41.66353136448941,
+            "longitude": 2.7354366417531586,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "L'Escala",
+            "type": "abs",
+            "latitude": 42.14867087959448,
+            "longitude": 3.0720349135528955,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Sant Feliu de Gu\u00edxols",
+            "type": "abs",
+            "latitude": 41.81977922169148,
+            "longitude": 2.998492212737359,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Tordera",
+            "type": "abs",
+            "latitude": 41.701373619188054,
+            "longitude": 2.6746324525090013,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Canet de Mar",
+            "type": "abs",
+            "latitude": 41.62591739209,
+            "longitude": 2.589744216429665,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Girona",
+            "NomABS": "Calella",
+            "type": "abs",
+            "latitude": 41.62343612605125,
+            "longitude": 2.6475901033323432,
+            "count": 2
+        }]
+    },
+    {
+        "latitude": 41.683996867832,
+        "longitude": 0.85785410859474,
+        "NOMRS": "Regió Sanitària Lleida",
+        "count": 23,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 7",
+            "type": "abs",
+            "latitude": 41.64495962302739,
+            "longitude": 0.5811874377310132,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 4",
+            "type": "abs",
+            "latitude": 41.64748928481201,
+            "longitude": 0.6339279000935953,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 1",
+            "type": "abs",
+            "latitude": 41.61771948513719,
+            "longitude": 0.6272382623577001,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 3",
+            "type": "abs",
+            "latitude": 41.62443025987045,
+            "longitude": 0.561804997912688,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 2",
+            "type": "abs",
+            "latitude": 41.59461184169354,
+            "longitude": 0.5845639668913254,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 5",
+            "type": "abs",
+            "latitude": 41.60075284126101,
+            "longitude": 0.6278308449530555,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Almacelles",
+            "type": "abs",
+            "latitude": 41.69475188683184,
+            "longitude": 0.42974334125084074,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida rural - 2 Sud",
+            "type": "abs",
+            "latitude": 41.49681981495552,
+            "longitude": 0.6228563745287811,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida - 6",
+            "type": "abs",
+            "latitude": 41.59332064658448,
+            "longitude": 0.6764592890510271,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "La Granadella",
+            "type": "abs",
+            "latitude": 41.37545704325614,
+            "longitude": 0.669065574197451,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Balaguer",
+            "type": "abs",
+            "latitude": 41.87592791372899,
+            "longitude": 0.7971505506320042,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Artesa de Segre",
+            "type": "abs",
+            "latitude": 41.94703235157453,
+            "longitude": 1.0303950707248557,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Les Borges Blanques",
+            "type": "abs",
+            "latitude": 41.469629985906806,
+            "longitude": 0.8783498118203542,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Pla d'Urgell",
+            "type": "abs",
+            "latitude": 41.64263545138194,
+            "longitude": 0.8636034173648924,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Bellpuig",
+            "type": "abs",
+            "latitude": 41.55891299109291,
+            "longitude": 1.0493811591307602,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "T\u00e0rrega",
+            "type": "abs",
+            "latitude": 41.64306376370133,
+            "longitude": 1.1137572181640099,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Cervera",
+            "type": "abs",
+            "latitude": 41.700319647986056,
+            "longitude": 1.3010510183542057,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Alcarr\u00e0s",
+            "type": "abs",
+            "latitude": 41.577966259488214,
+            "longitude": 0.4801654774965735,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Ser\u00f3s",
+            "type": "abs",
+            "latitude": 41.399284907787404,
+            "longitude": 0.4365921804920384,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Alfarr\u00e0s - Almenar",
+            "type": "abs",
+            "latitude": 41.797694688578666,
+            "longitude": 0.5794538708512531,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Lleida rural - 1 Nord",
+            "type": "abs",
+            "latitude": 41.70296770061798,
+            "longitude": 0.646494895223072,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Agramunt",
+            "type": "abs",
+            "latitude": 41.775893782087365,
+            "longitude": 1.0991953660880176,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Lleida",
+            "NomABS": "Ponts",
+            "type": "abs",
+            "latitude": 41.93623934827857,
+            "longitude": 1.2057703838868463,
+            "count": 2
+        }]
+    },
+    {
+        "latitude": 40.928592784708,
+        "longitude": 0.52151836144512,
+        "NOMRS": "Regió Sanitària Terres de l'Ebre",
+        "count": 11,
+        "type": "regions",
+        "abs": [{
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Ulldecona",
+            "type": "abs",
+            "latitude": 40.65551810499074,
+            "longitude": 0.36495394855381863,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Tortosa - 1 Est",
+            "type": "abs",
+            "latitude": 40.85259745454893,
+            "longitude": 0.5709909984909161,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "L'Ametlla de Mar - El Perell\u00f3",
+            "type": "abs",
+            "latitude": 40.895356027754836,
+            "longitude": 0.7204984914670547,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Terra Alta",
+            "type": "abs",
+            "latitude": 41.05505698375186,
+            "longitude": 0.37318002694419533,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Flix",
+            "type": "abs",
+            "latitude": 41.24277813813633,
+            "longitude": 0.5767284423257885,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "M\u00f3ra la Nova - M\u00f3ra d'Ebre",
+            "type": "abs",
+            "latitude": 41.04271244500933,
+            "longitude": 0.6711063781853368,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Deltebre",
+            "type": "abs",
+            "latitude": 40.71768279123726,
+            "longitude": 0.7555330561813833,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Tortosa - 2 Oest",
+            "type": "abs",
+            "latitude": 40.83220510479728,
+            "longitude": 0.418843556835316,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Amposta",
+            "type": "abs",
+            "latitude": 40.6862793855275,
+            "longitude": 0.5416146059941642,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "L'Aldea - Camarles - l'Ampolla",
+            "type": "abs",
+            "latitude": 40.782201012143716,
+            "longitude": 0.6542077421063464,
+            "count": 2
+        }, {
+            "NOMRS": "Regi\u00f3 Sanit\u00e0ria Terres de l'Ebre",
+            "NomABS": "Sant Carles de la R\u00e0pita",
+            "type": "abs",
+            "latitude": 40.60632420745078,
+            "longitude": 0.615740563539315,
+            "count": 2
+        }]
+    }
+]

@@ -48,28 +48,43 @@ var ABSSeriesTemplate = ABSSeries.mapPolygons.template;
 ABSSeriesTemplate.tooltipText = "{NOMABS}";
 ABSSeriesTemplate.fill = am4core.color("#2894c9");
 
+var imageSeries = chart.series.push(new am4maps.MapImageSeries());
+imageSeries.dataSource.url = "api/prova2.json";
+
+var imageSeriesTemplate = imageSeries.mapImages.template;
+imageSeriesTemplate.propertyFields.latitude = "latitude";
+imageSeriesTemplate.propertyFields.longitude = "longitude";
+
+var circle = imageSeriesTemplate.createChild(am4core.Circle);
+  circle.radius = 15;
+  circle.fillOpacity = 0.7;
+  circle.verticalCenter = "middle";
+  circle.tooltipText = "{title}";
+  circle.horizontalCenter = "middle";
+  circle.nonScaling = true;
+
+  var label = imageSeriesTemplate.createChild(am4core.Label);
+  label.text = "{count}";
+  label.fill = am4core.color("#fff");
+  label.verticalCenter = "middle";
+  label.horizontalCenter = "middle";
+  label.nonScaling = true;
+
 var backZoom = chart.createChild(am4core.ZoomOutButton);
     backZoom.align = "right";
     backZoom.margin(20, 20, 20, 20);
     backZoom.hide();
     backZoom.events.on("hit", function(ev) {
+        if(imageSeries)
+        {
+            imageSeries.show();
+        }
+            imageABSSeries.hide();
             RegionsSeries.show();
             ABSSeries.hide();
             chart.goHome();
             backZoom.hide();
         });
-
-chart.events.on("ready", cargarArxiuAbs);
-function cargarArxiuAbs(){
-    var dataSource = new am4core.DataSource();
-    dataSource.url = "geojson/ABSSimplificat_ID.geojson";
-    dataSource.events.on("parseended", function(ev) {
-    var data = ev.target.data;
-    //info es pasa a una funcio
-    informacioServiceABS(data);
-    });
-    dataSource.load();
-}
 
 
 /* 
@@ -78,11 +93,15 @@ function cargarArxiuAbs(){
     Un cop clickat s'aumentara el zoom de la regio sanitaria en questio.
 */
 
+    var imageABSSeries;
 
-    RegionsSeries.mapPolygons.template.events.on("hit", function(ev) {
+    imageSeries.mapImages.template.events.on("hit", function(ev) {
     //var drill_down
     var drill_down = ev.target.series.chart;
     drill_down.zoomToMapObject(ev.target);
+
+    var data = ev.target.dataItem.dataContext;
+    console.log(data);
 
     /*
         Si es clica a una regio sanitaria i aquesta te un id diferent a undefined, entrera
@@ -96,7 +115,36 @@ function cargarArxiuAbs(){
         //console.log(map);
         ABSSeries.geodataSource.url = "geojson/regions/" + map + ".geojson";
         ABSSeries.geodataSource.load();
+
+        var series = chart.series.push(new am4maps.MapImageSeries());
+        series.data = data.abs;
+        console.log(series.data);
+
+        var template = series.mapImages.template;
+        template.verticalCenter = "middle";
+        template.horizontalCenter = "middle";
+        template.propertyFields.latitude = "latitude";
+        template.propertyFields.longitude = "longitude";
+        template.tooltipText = "{NomABS}:\n[bold]{count} ABS[/]";
+
+        var circle = template.createChild(am4core.Circle);
+        circle.radius = 15;
+        circle.fillOpacity = 0.7;
+        circle.verticalCenter = "middle";
+        circle.horizontalCenter = "middle";
+        circle.nonScaling = true;
+
+        var label = template.createChild(am4core.Label);
+        label.text = "{count}";
+        label.fill = am4core.color("#fff");
+        label.verticalCenter = "middle";
+        label.horizontalCenter = "middle";
+        label.nonScaling = true;
+
+        imageABSSeries = series;
+        imageSeries.hide();
         backZoom.show();
+
     }
 
 });
